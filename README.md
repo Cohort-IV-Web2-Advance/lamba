@@ -10,7 +10,7 @@ Learning objectives:
 
 Collaborators:
 * MP - https://github.com/MP-XXL royceapera@yahoo.com
-* Teyei -
-* Lere Dakshak -
-* Bethel -
-* Litcho -
+* Teyei - teyeiesla02@gmail.com
+* Lere Dakshak - dakshaklere02@gmail.com
+* Bethel - betheldanlami@gmail.com
+* Litcho - bosspofii@gmail.com
