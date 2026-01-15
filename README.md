@@ -1,4 +1,4 @@
-PROJECT NAME: Project Lamba
+PROJECT NAME: Lamba
 
 Overview:
 * Cutting edge news outfit for distributing genuine news and debunking fake news and journalism through the use of fact based arguments.
