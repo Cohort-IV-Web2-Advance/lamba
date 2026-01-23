@@ -131,3 +131,28 @@ p {
     background-color: rgb(204, 228, 248);
     cursor: pointer;
 }
+
+
+.container {
+    display: flex;
+    justify-content: center;
+
+}
+.feedback {
+    margin-top: 40px;
+    margin: 150px;
+    line-height: 1.5;
+    width: 400px;
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid green;
+    border-radius: 10px;
+    padding: 2px;
+    text-align: center
+}
+
+footer {
+    text-align: center;
+}
+	
